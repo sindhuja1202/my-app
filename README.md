@@ -16,4 +16,5 @@ You may also see any lint errors in the console.
 
 https://github.com/sindhuja1202/my-app/assets/99871843/00339774-504b-4057-bb47-f4c4e664b429
 
-
+** Note: The next version of the project will involve making the user selection automatic rather than passing directly to the component
+**
